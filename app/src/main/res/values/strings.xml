@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KalkulatorTip</string>
+    <string name="hitung_tip">Hitung Tip</string>
+    <string name="jumlah_tagihan">Jumlah Tagihan</string>
+    <string name="jumlah_tip">Jumlah Tip : Rp. %s</string>
+    <string name="persentase_tip">Persentase Tip</string>
+    <string name="pembulatan_tip">Pembulata tip?</string>
+</resources>
+
+
